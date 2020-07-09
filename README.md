@@ -70,6 +70,9 @@ As of July 1st, I still do not have data for this project so this document will 
 * Received compiled media arrest data from SMPD ~July 9/10
 
 
+**PLEASE FEEL FREE TO USE THIS DATA FOR YOUR OWN ANALYSIS**
 
-*PLEASE FEEL FREE TO USE THIS DATA FOR YOUR OWN ANALYSIS*
+*GOAL*
+---
+https://www.popsci.com/story/science/implicit-bias-training-police-racism-black-lives-matter/
 
