@@ -56,3 +56,20 @@ As of July 1st, I still do not have data for this project so this document will 
 
 *HOW/WHERE*
 ---
+
+*kaggle for coding
+*this repository for file management
+*potential visualization software in future for dashboards
+*API to future data releases 
+*invidents/arrests/convictions for full scope 
+
+*UPDATES
+---
+
+*Requested data from SMPD via format Open Records Request ~June 1
+*Received compiled media arrest data from SMPD ~July 9/10
+
+
+
+*PLEASE FEEL FREE TO USE THIS DATA FOR YOUR OWN ANALYSIS*
+
