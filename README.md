@@ -1,11 +1,21 @@
 # SMPD Arrest Data Project
 
+**PLEASE FEEL FREE TO USE THIS DATA FOR YOUR OWN ANALYSIS**
+
 *QUESTIONS I WANT DATA TO ANSWER*
 ---
 
-* What is the black arrest rate for SMPD? (adjusted for demographics?) 
+* What is the black arrest rate for SMPD for each of the past three years? (adjusted for demographics?) 
+* What is the "" year over year
+* How many total arrests does SMPD have each year 
+* Are they arresting more or less year over year?
 * How does that compare to other races? 
+* How does that compare to other districts of the same size?
 * What is the individual black arrest rate per officer? 
+* Do some offers arrest a certain race at an alarming rate?
+* What is an alarming rate?
+
+^ this list is continually updated. 
 
 *BACKGROUND*
 ---
@@ -70,9 +80,10 @@ As of July 1st, I still do not have data for this project so this document will 
 * Received compiled media arrest data from SMPD ~July 9/10
 
 
-**PLEASE FEEL FREE TO USE THIS DATA FOR YOUR OWN ANALYSIS**
-
 *GOAL*
 ---
-https://www.popsci.com/story/science/implicit-bias-training-police-racism-black-lives-matter/
+Something like: 
+https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year_end_2015_enforcement_report.pdf vis 
+https://www.popsci.com/story/science/implicit-bias-training-police-racism-black-lives-matter/ ?
+
 
