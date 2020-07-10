@@ -73,7 +73,7 @@ As of July 1st, I still do not have data for this project so this document will 
 * API to future data releases 
 * invidents/arrests/convictions for full scope 
 
-*UPDATES*
+*UPDATES* (pre repo creation) 
 ---
 
 * Requested data from SMPD via format Open Records Request ~June 1
