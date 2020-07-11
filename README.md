@@ -1,4 +1,4 @@
-### Data Science, Politics, and Police
+## Data Science, Politics, and Police
 
 this is an active work in progress
 
