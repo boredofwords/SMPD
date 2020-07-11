@@ -7,22 +7,7 @@ The intersection of science, politics, personal opinion, and social policy can b
 
 High-profile police shootings killings of unarmed black men have triggered a divisive national dialog on the issue of racial bias in policing. These events, compounded with years of racial injustice have spurred the growth of large social movements seeking to raise awareness of what is viewed as the systemic targeting of people-of-color by police forces across the country.  On the other side of the spectrum, many hold a view that an unbalanced targeting of non-white citizens is a myth created by the media based on a handful of extreme cases, and that these highly-publicized stories are not representative of the national norm.
 
-Lots of analysis has been done on this topic, but I wanted to look at it from a local perspective. 
-
-## DATA
-
-SMPD Publishes arrest lists daily (See: SMPD Media Arrest List & SMPD Incident List) Using these lists obtained through open records requests I will analyze and visualize this data using Python.
-
-Fields I can compile from these reports:
-
-* Incident #
-* Arrest Date	
-* Officer
-* Location	
-* Age
-* Sex
-* Race
-* Officer
+Lots of analysis has been done on this topic, but I wanted to look at it from a local perspective. I will be updating this file as the project progresses but the majority of the work will be in Kaggle. A link to the published notebook will be here when ready. 
 
 ## READ MORE
 https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year_end_2015_enforcement_report.pdf vis
