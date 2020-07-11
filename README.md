@@ -13,7 +13,7 @@ An analysis of arrest data voluntarily reported to the FBI by thousands of city 
 
 The analysis, conducted by ABC News in collaboration with ABC-owned stations, covers a three-year period ending in 2018, from which the most recent data is available. 
 
-[source](https://abcnews.go.com/US/abc-news-analysis-police-arrests-nationwide-reveals-stark/story?id=71188546 "Black people were arrested at a rate five times more than white people in 2018.")
+[[source]](https://abcnews.go.com/US/abc-news-analysis-police-arrests-nationwide-reveals-stark/story?id=71188546 "Black people were arrested at a rate five times more than white people in 2018.")
 
 While lots of national analysis has been done on this topic, it's 2020 and I wanted to look at it from a local perspective using standardized data anyone could submit an open records request for. I will be updating this file as the project progresses but the majority of the work will be in Kaggle. A link to the published notebook will be here when ready. 
 
