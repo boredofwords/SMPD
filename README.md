@@ -1,35 +1,42 @@
-# SMPD Arrest Data Project
+## Data Science, Politics, and Police
 
-**PLEASE FEEL FREE TO USE THIS DATA FOR YOUR OWN ANALYSIS**
+The intersection of science, politics, personal opinion, and social policy can be rather complex.  This junction of ideas and disciplines is often rife with controversies, strongly held viewpoints, and agendas that are often [more based on belief than on empirical evidence](https://en.wikipedia.org/wiki/Global_warming_controversy).  Data science is particularly important in this area since it provides a methodology for examining the world in a pragmatic fact-first manner, and is capable of providing insight into some of the most important issues that we face today.
 
-*BACKGROUND*
----
+High-profile police shootings killings of unarmed black men have triggered a divisive national dialog on the issue of racial bias in policing.
 
->An analysis of arrest data voluntarily reported to the FBI by thousands of city and county police departments around the country reveals that, in 800 jurisdictions, black people were arrested at a rate five times higher than white people in 2018, after accounting for the demographics of the cities and counties those police departments serve.
+These shootings have spurred the growth of large social movements seeking to raise awareness of what is viewed as the systemic targeting of people-of-color by police forces across the country.  On the other side of the political spectrum, many hold a view that the unbalanced targeting of non-white citizens is a myth created by the media based on a handful of extreme cases, and that these highly-publicized stories are not representative of the national norm.
 
->In 250 jurisdictions, black people were 10 times more likely to be arrested than their white counterparts.
+In June 2017, a team of researchers at Stanford University collected and released an open-source data set of 60 million state police patrol stops from 20 states across the US.  In this tutorial, we will walk through how to analyze and visualize this data using Python.
 
->The analysis, conducted by ABC News in collaboration with ABC-owned stations, covers a three-year period ending in 2018, from which the most recent data is available. 
+![county scatters vt](https://cdn.patricktriest.com/blog/images/posts/policing-data/county_scatter_VT.png)
 
-[source](https://abcnews.go.com/US/abc-news-analysis-police-arrests-nationwide-reveals-stark/story?id=71188546 "Black people were arrested at a rate five times more than white people in 2018.")
+To preview the completed IPython notebook, visit the page [here](https://github.com/triestpa/Police-Analysis-Python/blob/master/traffic_stop_analysis.ipynb).
 
-SMPD Publishes arrest lists daily (See: [SMPD Media Arrest List](https://www.sanmarcostx.gov/DocumentCenter/View/5913/SMPD-Media-Arrest-List--06-23-2020-PDF?bidId= "Data Goldmine!") & [SMPD Incident List](https://www.sanmarcostx.gov/DocumentCenter/View/5875/SMPD-Incident-Blotter-06-29-2020-pdf "This one is not as detailed")) These are very useful for basic demographic information that can answer my questions about black arrest rates within SMPD. 
+> Thanks for Patrick Triest for the inspiration, jump start, & tutorial. To read more about his original analysis, visit - https://blog.patricktriest.com/police-data-python/
 
-`<--insert screenshot of blotters here-->`
+___
 
-Fields from these reports:
+This notebook is 100% open-source, feel free to utilize the code however you would like.
 
-Incident List Fields | Media Arrest List Fields |
---- | --- |
-Incident # | Incident # |
-Time Reported | Name |
-Activity | Arrest Date | 
-Disposition | Officer | 
-Location | Age | 
-. | Sex | 
-. | Race | 
-. | Officer | 
-. | Charge |
+xoxojehnnyoh 2020
 
-Using this data, (and even more i hope) I want to come up with a set of standard metrics that can check for implicit bias, and calculate incidents, arrests and convictions-- a funnel of criminal justice. My intent is do a deep dive and analysis of police data. Not to call any one out, but in a sincere attempt to make an easy way for police forces across the country to metric their effectiveness. 
+```
 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
