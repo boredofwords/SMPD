@@ -1,6 +1,6 @@
 # POLICE EFFECTIVENESS & BIASES (Data Science, Politics, and Police)
 
-this is an active work in progress
+This is an active work in progress: [Kaggle Notebook](https://www.kaggle.com/motherofdata/smpd-arrest-data)
 
 ## JUST SOME BACKGROUND
 The intersection of science, politics, personal opinion, and social policy can be rather complex.  This junction of ideas and disciplines is often rife with controversies, strongly held viewpoints, and agendas that are often [more based on belief than on empirical evidence](https://en.wikipedia.org/wiki/Global_warming_controversy).  Data science is particularly important in this area since it provides a methodology for examining the world in a pragmatic fact-first manner, and is capable of providing insight into some of the most important issues that we face today.
@@ -18,11 +18,11 @@ The analysis, conducted by ABC News in collaboration with ABC-owned stations, co
 While lots of national analysis has been done on this topic, it's 2020 and I wanted to look at it from a local perspective using standardized data anyone could submit an open records request for. I will be updating this file as the project progresses but the majority of the work will be in Kaggle. A link to the published notebook will be here when ready. 
 
 ## READ MORE
-https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year_end_2015_enforcement_report.pdf vis
-https://www.popsci.com/story/science/implicit-bias-training-police-racism-black-lives-matter/ ?
+* [NYPD 2015 Law Enforcement Report](https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year_end_2015_enforcement_report.pdf)
+* [Implicit Bias Training in Police Forces](https://www.popsci.com/story/science/implicit-bias-training-police-racism-black-lives-matter/)
 
 ## PROPS
-Thanks for Patrick Triest for the inspiration, jump start, & tutorial. To read more about his original analysis, visit - https://blog.patricktriest.com/police-data-python/
+Thanks for Patrick Triest for the [inspiration, jump start, & tutorial](https://blog.patricktriest.com/police-data-python/).
 
 # This notebook is 100% open-source, feel free to utilize the code however you would like.
 
