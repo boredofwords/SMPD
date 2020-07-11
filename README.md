@@ -8,7 +8,7 @@ These shootings have spurred the growth of large social movements seeking to rai
 
 In June 2017, a team of researchers at Stanford University collected and released an open-source data set of 60 million state police patrol stops from 20 states across the US.  
 
-[add more intro here]
+---add more intro here--
 
 > Thanks for Patrick Triest for the inspiration, jump start, & tutorial. To read more about his original analysis, visit - https://blog.patricktriest.com/police-data-python/
 
