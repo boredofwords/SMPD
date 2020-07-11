@@ -2,21 +2,6 @@
 
 **PLEASE FEEL FREE TO USE THIS DATA FOR YOUR OWN ANALYSIS**
 
-*QUESTIONS I WANT DATA TO ANSWER*
----
-
-* What is the black arrest rate for SMPD for each of the past three years? (adjusted for demographics?) 
-* What is the "" year over year
-* How many total arrests does SMPD have each year 
-* Are they arresting more or less year over year?
-* How does that compare to other races? 
-* How does that compare to other districts of the same size?
-* What is the individual black arrest rate per officer? 
-* Do some offers arrest a certain race at an alarming rate?
-* What is an alarming rate?
-
-^ this list is continually updated. 
-
 *BACKGROUND*
 ---
 
@@ -46,44 +31,5 @@ Location | Age |
 . | Officer | 
 . | Charge |
 
-In order to calculate an incident report based black arrest rate, we will need to know the badge number or identifying key for the officers, race of the arrestee, & date of the incident-- all of which is present in these daily exports. 
-
-However, I was unable to find a folder or historical record of these reports past what is published on their [website](https://www.sanmarcostx.gov/511/Daily-Police-Blotter "Blotters"). 
-
-I submitted an open records request on 6/1/2020 for arrest information by demographic. 
-`<--insert screenshot of OG request here-->`
-
-I received my first response on 6/10/2020 requesting clarification. 
-
-On 6/29/2020, the records supervisor wrote, "The arrest list that I upload onto the City website are done daily and removed after a week." She requested I contact her to directly because she did not understand my request. 
-
-As of July 1st, I still do not have data for this project so this document will continue to grow with ideas and planning. 
-
-*QUESTIONS I STILL NEED TO ANSWER*
----
-* how to account for SM demographics in my black arrest rate (should the results be adjusted to account for population?) 
-* is there another reason a particular officer would over arrest a black person? (ie: scheduling? if they work more than their counterparts, area they are assigned, etc.) 
-
-*HOW/WHERE*
----
-
-* kaggle for coding
-* this repository for file management
-* potential visualization software in future for dashboards
-* API to future data releases 
-* invidents/arrests/convictions for full scope 
-
-*UPDATES* (pre repo creation) 
----
-
-* Requested data from SMPD via format Open Records Request ~June 1
-* Received compiled media arrest data from SMPD ~July 9/10
-
-
-*GOAL*
----
-Something like: 
-https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year_end_2015_enforcement_report.pdf vis 
-https://www.popsci.com/story/science/implicit-bias-training-police-racism-black-lives-matter/ ?
-
+Using this data, (and even more i hope) I want to come up with a set of standard metrics that can check for implicit bias, and calculate incidents, arrests and convictions-- a funnel of criminal justice. My intent is do a deep dive and analysis of police data. Not to call any one out, but in a sincere attempt to make an easy way for police forces across the country to metric their effectiveness. 
 
