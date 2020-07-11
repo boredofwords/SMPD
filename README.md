@@ -33,7 +33,7 @@ Thanks for Patrick Triest for the inspiration, jump start, & tutorial. To read m
 
 # This notebook is 100% open-source, feel free to utilize the code however you would like.
 
-*'<3 xoxojehnnyoh 2020
+<3 xoxojehnnyoh 2020
 
 <sub>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
