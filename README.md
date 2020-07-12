@@ -15,7 +15,7 @@ The analysis, conducted by ABC News in collaboration with ABC-owned stations, co
 
 [[source]](https://abcnews.go.com/US/abc-news-analysis-police-arrests-nationwide-reveals-stark/story?id=71188546 "Black people were arrested at a rate five times more than white people in 2018.")
 
-While lots of national analysis has been done on this topic, it's 2020 and I wanted to look at it from a local perspective using standardized data anyone could submit an open records request for. I will be updating this file as the project progresses but the majority of the work will be in Kaggle. A link to the published notebook will be here when ready. 
+While lots of national analysis has been done on this topic, it's 2020 and I wanted to look at it from a local perspective using standardized data anyone could submit an open records request for. I will be updating this file as the project progresses but the majority of the work and updates can be followed on Kaggle. @motherofdata
 
 ## READ MORE
 * [NYPD 2015 Law Enforcement Report](https://www1.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/year_end_2015_enforcement_report.pdf)
