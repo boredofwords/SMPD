@@ -24,7 +24,7 @@ While lots of national analysis has been done on this topic, it's 2020 and I wan
 ## PROPS
 Thanks for Patrick Triest for the [inspiration, jump start, & tutorial](https://blog.patricktriest.com/police-data-python/).
 
-# This notebook is 100% open-source, feel free to utilize however you would like & check out my kaggle dataset. 
+# This dataset is 100% open-source, feel free to utilize however you would like & share what you come up with. 
 
 <3 xoxojehnnyoh 2020
 
